@@ -1,7 +1,7 @@
 # WebCrawler
 
 ## Project introduction : 
-1. This is a maven project, using jsoup-1.10.1-jar to do web crawling.
+1. This is a maven project, run main function in Crawler.java, using jsoup-1.10.1-jar to do web crawling.
 2. Crawled data stored in a local text file named "rentInfo.txt"
 
 ## Sample Result like:
